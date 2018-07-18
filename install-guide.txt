@@ -1,0 +1,10 @@
+------Install instructions-----
+1, Clone this repo
+
+2, Open terminal and go to (cd) to "server" folder and enter command:
+$ php -S localhost:8080
+
+3, Open terminal and go to (cd) to root folder and enter command:
+$ npm start
+
+
